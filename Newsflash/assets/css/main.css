@@ -552,6 +552,17 @@ body.light-theme{
 }
 /* Newsletter */
 
+.newsletter{
+    padding-bottom: 6rem;
+}
+
+.newsletter-description{
+    margin-bottom: 3rem;
+}
+
+.newsletter-title{
+    font-size: var(--font-size-lg);
+}
 /* Footer */
 
 /* Scrollbar styles */
